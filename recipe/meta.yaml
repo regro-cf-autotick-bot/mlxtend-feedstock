@@ -29,6 +29,8 @@ requirements:
     - matplotlib >=1.5.1
 
 test:
+  requires:
+    - nose
   imports:
     - mlxtend
     - mlxtend._base
