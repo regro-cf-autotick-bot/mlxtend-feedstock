@@ -1,7 +1,7 @@
 {% set name = "mlxtend" %}
-{% set version = "0.9.0" %}
+{% set version = "0.9.1" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "33a74fb31a0895c5692ba0a1874f752316d7cb43050db645c5bd0c9b09ae3a13" %}
+{% set hash_value = "7e027b6f7a83b1b74325ca0e2f0f093f429270e0123b0901211fd158e7462572" %}
 
 package:
   name: '{{ name|lower }}'
@@ -22,10 +22,10 @@ requirements:
     - setuptools
   run:
     - python
-    - numpy >=1.10.4
-    - scipy >=0.17
+    - numpy >=1.11.2
+    - scipy >=0.18.1
     - scikit-learn >=0.18
-    - pandas >=0.17.1
+    - pandas >=0.19.1
     - matplotlib >=1.5.1
 
 test:
