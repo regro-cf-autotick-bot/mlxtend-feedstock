@@ -18,14 +18,15 @@ This project is hosted at https://github.com/rasbt/mlxtend The documentation can
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/mlxtend-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/mlxtend-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/mlxtend-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/mlxtend-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/mlxtend-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/mlxtend-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/mlxtend-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/mlxtend-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mlxtend/badges/version.svg)](https://anaconda.org/conda-forge/mlxtend)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mlxtend/badges/downloads.svg)](https://anaconda.org/conda-forge/mlxtend)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-mlxtend-green.svg)](https://anaconda.org/conda-forge/mlxtend) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/mlxtend.svg)](https://anaconda.org/conda-forge/mlxtend) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/mlxtend.svg)](https://anaconda.org/conda-forge/mlxtend) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/mlxtend.svg)](https://anaconda.org/conda-forge/mlxtend) |
 
 Installing mlxtend
 ==================
